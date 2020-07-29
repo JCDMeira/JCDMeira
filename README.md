@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey, what's up. My name is Jean Carlos De Meira from São Paulo, Brazil (:brazil:). I'm learning to program and I'm still improving. I am a learning enthusiast and I love gamification in education (🎮).
-I am still improving my English, but I love to study the languages and culture of the countries, currently I study English (:statue_of_liberty:) and Mandarin (🀄).
+Hey, what's up. My name is Jean Carlos De Meira from São Paulo, Brazil (:brazil:). I'm learning to program, but I'm still improving.  I am a learning enthusiast and i love gamification used for education (🎮).
+I love studying the languages and culture of countries, currently, I study English (:statue_of_liberty:) and Mandarin (🀄).
 
-In my free time I like to chat with friends (💬), even more if I have a RPG (👹	💥 👺) , watch series (📺), taste wines and beers (🍺🍷 Cheers 🍷🍺).
-And well, I love coffee (☕💗)	
+In my free time I like to chat with friends (💬), even more we play RPG (👹	💥 👺) , watch series (📺), taste wines and beers (🍺🍷 Cheers 🍷🍺),well, I love coffee (☕💗)	
 
 
 why don't you say hello?
