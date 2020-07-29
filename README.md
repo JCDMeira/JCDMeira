@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😜
 
 <!--
 **JCDMeira/JCDMeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hey, what's up. My name is Jean Carlos De Meira from São Paulo, Brazil (:brazil:). I'm learning to program and I'm still improving. I am a learning enthusiast and I love gamification in education (🎮).
+I am still improving my English, but I love to study the languages and culture of the countries, currently I study English (:statue_of_liberty:) and Mandarin (🀄).
+
+In my free time I like to chat with friends (💬), even more if I have a RPG (👹	💥 👺) , watch series (📺), taste wines and beers (🍺🍷 Cheers 🍷🍺).
+And well, I love coffee (☕💗)	
+
+
+why don't you say hello?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-carlos-de-meira-00593816a/)](https://www.linkedin.com/in/jean-carlos-de-meira-00593816a/)
