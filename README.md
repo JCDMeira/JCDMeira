@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey, what's up. My name is Jean Carlos De Meira from São Paulo, Brazil (:brazil:). I'm learning to program, but I'm still improving.  I am a learning enthusiast and i love gamification used for education (🎮).
+Hey, what's up. My name is Jean Carlos De Meira from São Paulo, Brazil (:brazil:). I have a degree in industrial automation technology and I am learning to program systems.  I am a learning enthusiast and i love gamification used for education (🎮).
 I love studying the languages and culture of countries, currently, I study English (:statue_of_liberty:) and Mandarin (🀄).
 
 In my free time I like to chat with friends (💬), even more we play RPG (👹	💥 👺) , watch series (📺), taste wines and beers (🍺🍷 Cheers 🍷🍺),well, I love coffee (☕💗)	
