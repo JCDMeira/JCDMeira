@@ -35,10 +35,12 @@ In my free time I like to chat with friends (💬), even more we play RPG (👹	
 
 
 ## Contact forms 
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-carlos-de-meira-00593816a/)](https://www.linkedin.com/in/jean-carlos-de-meira-00593816a/)
+[![image](https://shields.io/badge/-Personal_Page-Personal_Page)](https://jcdmeira.github.io)
 [![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jean.meira10@hotmail.com)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jean.meira10/)
+
+
 
 <p align="center">
 <img width="400px" alt="octocat" src="https://user-images.githubusercontent.com/65555624/88875729-2f119f00-d1f8-11ea-98b5-5d66a30bd6b5.png">  
