@@ -24,17 +24,21 @@ I love studying the languages and culture of countries, currently, I study Engli
 In my free time I like to chat with friends (💬), even more we play RPG (👹	💥 👺) , watch series (📺), taste wines and beers (🍺🍷 Cheers 🍷🍺),well, I love coffee (☕💗)	
 
 ## My statistics
+### General statistics 
 [![JCDMeira's github stats](https://github-readme-stats.vercel.app/api?username=JCDMeira&theme=blue-green)]
+### Languages statistics 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=JCDMeira&theme=blue-green)
-
+### Time working on last seven days
+[![Jean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JCDMeira)
 
 <!--
 [![JCDMeira's github trophy](https://github-profile-trophy.vercel.app/?username=JCDMeira&row=1)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCDMeira&theme=dark)
 -->
 
 
 
-## Contact forms 
+## Contact me 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-carlos-de-meira-00593816a/)](https://www.linkedin.com/in/jean-carlos-de-meira-00593816a/)
 [![image](https://shields.io/badge/-Personal_Page-Personal_Page)](https://jcdmeira.github.io)
 [![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jean.meira10@hotmail.com)
@@ -45,4 +49,3 @@ In my free time I like to chat with friends (💬), even more we play RPG (👹	
 <p align="center">
 <img width="400px" alt="octocat" src="https://user-images.githubusercontent.com/65555624/88875729-2f119f00-d1f8-11ea-98b5-5d66a30bd6b5.png">  
 </p>
-
