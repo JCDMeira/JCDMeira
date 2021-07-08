@@ -28,10 +28,12 @@ In my free time I like to chat with friends (💬), even more we play RPG (👹	
 [![JCDMeira's github stats](https://github-readme-stats.vercel.app/api?username=JCDMeira&theme=blue-green)]
 ### Languages statistics 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=JCDMeira&theme=blue-green)
+
+
+<!--
 ### Time working on last seven days
 [![Jean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JCDMeira)
 
-<!--
 [![JCDMeira's github trophy](https://github-profile-trophy.vercel.app/?username=JCDMeira&row=1)]
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCDMeira&theme=dark)
 -->
