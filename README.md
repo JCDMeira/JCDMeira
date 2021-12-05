@@ -1,53 +1,60 @@
-# Jean Carlos De Meira
+# Me chamo [Jean Carlos De Meira]()
 
-## Hi there 😜
+## esse é o lugar que exponho meu trabalho e é um prazer recebê-lo
 
-<!--
-**JCDMeira/JCDMeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+Sou um dev frontend com enfase no reactJS, em breve vou adicionar trabalhos com NodeJS ao frontend com reactJS.
+</br>
 
-Here are some ideas to get you started:
+</br>
+Se quiser conversar, sugerir ou discutir algo, sinta-se livre para me chamar: :arrow_down:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+<div>
+  <a href="https://www.linkedin.com/in/jeanmeira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="https://www.facebook.com/jean.meira.79" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"/></a>
+  <a href="https://www.instagram.com/jean.meira10/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+  <a href="mailto:jean.meira10@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
+</div>
+</br>
 
+## :chart_with_upwards_trend: Minhas estatísticas
 
-Hey, what's up. My name is Jean Carlos De Meira from São Paulo, Brazil (:brazil:). I have a degree in industrial automation technology and I am learning to program systems.  I am a learning enthusiast and i love gamification used for education (🎮).
-I love studying the languages and culture of countries, currently, I study English (:statue_of_liberty:) and Mandarin (🀄).
+ <div align='center'>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcdmeira&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcdmeira&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+</br>
 
-In my free time I like to chat with friends (💬), even more we play RPG (👹	💥 👺) , watch series (📺), taste wines and beers (🍺🍷 Cheers 🍷🍺),well, I love coffee (☕💗)	
+## :bookmark_tabs: Minhas Skill's
 
-## My statistics
-### General statistics 
-[![JCDMeira's github stats](https://github-readme-stats.vercel.app/api?username=JCDMeira&theme=blue-green)]
-### Languages statistics 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=JCDMeira&theme=blue-green)
+</br>
 
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&labelColor=black)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&labelColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&labelColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/git-tomato?style=for-the-badge&logo=git&labelColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</br>
 
-<!--
-### Time working on last seven days
-[![Jean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JCDMeira)
+## :rocket: Tenho interesse em aprender:
 
-[![JCDMeira's github trophy](https://github-profile-trophy.vercel.app/?username=JCDMeira&row=1)]
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCDMeira&theme=dark)
--->
+</br>
 
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MoongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-
-## Contact me 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-carlos-de-meira-00593816a/)](https://www.linkedin.com/in/jean-carlos-de-meira-00593816a/)
-[![image](https://shields.io/badge/-Personal_Page-Personal_Page)](https://jcdmeira.github.io)
-[![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jean.meira10@hotmail.com)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jean.meira10/)
-
-
+<!-- [![image](https://shields.io/badge/-Personal_Page-Personal_Page)](https://jcdmeira.github.io)
 
 <p align="center">
-<img width="400px" alt="octocat" src="https://user-images.githubusercontent.com/65555624/88875729-2f119f00-d1f8-11ea-98b5-5d66a30bd6b5.png">  
-</p>
+<img width="400px" alt="octocat" src="https://user-images.githubusercontent.com/65555624/88875729-2f119f00-d1f8-11ea-98b5-5d66a30bd6b5.png">
+</p> -->
