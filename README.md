@@ -3,7 +3,7 @@
 ## esse é o lugar que exponho meu trabalho e é um prazer recebê-lo
 
 </br>
-Sou um dev frontend com enfase no reactJS, em breve vou adicionar trabalhos com NodeJS ao frontend com reactJS.
+Sou um dev frontend com enfase no reactJS.
 </br>
 
 </br>
