@@ -46,9 +46,9 @@ Se quiser conversar, sugerir ou discutir algo, sinta-se livre para me chamar: :a
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-<div align='center'>
+
   # [Confira meus repositórios](https://github.com/JCDMeira?tab=stars)
-</div>
+
 
 
 
