@@ -31,10 +31,12 @@ Sou um dev frontend com enfase no reactJS.
 ![Git](https://img.shields.io/badge/git-tomato?style=for-the-badge&logo=git&labelColor=black)
 ![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ## :rocket: Estou me aprofundando no momento:
 
-![Git](https://img.shields.io/badge/git-tomato?style=for-the-badge&logo=git&labelColor=black)
+![Estrutura de dados](https://img.shields.io/badge/-Estrutura%20de%20dados-blue)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <!-- [![image](https://shields.io/badge/-Personal_Page-Personal_Page)](https://jcdmeira.github.io)
@@ -50,4 +52,5 @@ Se quiser conversar, sugerir ou discutir algo, sinta-se livre para me chamar: :a
   <a href="https://www.facebook.com/jean.meira.79" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"/></a>
   <a href="https://www.instagram.com/jean.meira10/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
   <a href="mailto:jean.meira10@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
+  <a href="https://medium.com/@jean.meira10" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/></a>
 </div>
