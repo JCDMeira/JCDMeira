@@ -75,8 +75,6 @@ Tenho 24 anos, sou um dev frontend com enfase no reactJS e um background em auto
 <img width="400px" alt="octocat" src="https://user-images.githubusercontent.com/65555624/88875729-2f119f00-d1f8-11ea-98b5-5d66a30bd6b5.png">
 </p> -->
 
-## Social
-
 Se quiser conversar, sugerir ou discutir algo, sinta-se livre para me chamar: :arrow_down:
 
 <div align='center'>
