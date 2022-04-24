@@ -1,4 +1,4 @@
-# Me chamo [Jean Carlos De Meira](https://www.linkedin.com/in/jeanmeira/)
+# Olá, me chamo [Jean Carlos De Meira](https://www.linkedin.com/in/jeanmeira/)
 
 ## esse é o lugar que exponho meu trabalho e é um prazer recebê-lo
 
@@ -53,4 +53,10 @@ Se quiser conversar, sugerir ou discutir algo, sinta-se livre para me chamar: :a
   <a href="https://www.instagram.com/jean.meira10/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
   <a href="mailto:jean.meira10@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
   <a href="https://medium.com/@jean.meira10" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/></a>
+</div>
+
+## 🏆 Sequência de CTD (Código Todo Dia)
+
+ <div align='center'>
+<a href="http://www.github.com/JCDMeira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JCDMeira&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
