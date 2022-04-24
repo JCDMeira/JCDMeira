@@ -1,8 +1,8 @@
 # Olá, me chamo [Jean Carlos De Meira](https://www.linkedin.com/in/jeanmeira/)
 
-## esse é o lugar que exponho meu trabalho e é um prazer recebê-lo
+## é um prazer recebê-lo aqui
 
-Sou um dev frontend com enfase no reactJS.
+Tenho 24 anos, sou um dev frontend com enfase no reactJS e um background em automação industrial. E também um entusiasta do aprendizado, muito eclético e que adoro ler.
 
 <div align='center'>
   <h2>
@@ -10,7 +10,7 @@ Sou um dev frontend com enfase no reactJS.
     target="_blank"
     style="text-decoration: none"
     href="https://github.com/JCDMeira?tab=stars"
-    >Acesse meus repositórios por lista</a>
+    >Acesse meus repositórios</a>
   </h2>
 </div>
 
@@ -23,21 +23,51 @@ Sou um dev frontend com enfase no reactJS.
 
 ## :bookmark_tabs: Minhas Skill's
 
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&labelColor=black)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&labelColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&labelColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/git-tomato?style=for-the-badge&logo=git&labelColor=black)
-![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
+<img src="./images/html-5.svg" width="32" height="32" />
+</a>
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
+<img src="./images/css3.svg" width="32" height="32" />
+</a>
+
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+<img src="./images/javascript.svg" width="32" height="32" />
+</a>
+
+<a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
+<img src="./images/react.svg" width="32" height="32" />
+</a>
+
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+<img src="./images/typescript.svg" width="32" height="32" />
+</a>
+
+<a href="https://git-scm.com" target="_blank" rel="noreferrer">
+<img src="./images/git.svg" width="32" height="32" />
+</a>
+
+<a href="https://styled-components.com" target="_blank" rel="noreferrer">
+<img src="./images/styled-components.png" width="32" height="32" />
+</a>
+
+<a href="https://www.figma.com" target="_blank" rel="noreferrer">
+<img src="./images/figma.svg" width="32" height="32" />
+</a>
+
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+<img src="./images/vs-code.svg" width="32" height="32" />
+</a>
 
 ## :rocket: Estou me aprofundando no momento:
 
-![Estrutura de dados](https://img.shields.io/badge/-Estrutura%20de%20dados-blue)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<a href="https://github.com/JCDMeira/algoritmos-estrutura-de-dado" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-Estrutura%20de%20dados-blue"  />
+</a>
+
+<a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
+<img src="./images/react.svg" width="32" height="32" />
+</a>
 
 <!-- [![image](https://shields.io/badge/-Personal_Page-Personal_Page)](https://jcdmeira.github.io)
 
@@ -45,14 +75,28 @@ Sou um dev frontend com enfase no reactJS.
 <img width="400px" alt="octocat" src="https://user-images.githubusercontent.com/65555624/88875729-2f119f00-d1f8-11ea-98b5-5d66a30bd6b5.png">
 </p> -->
 
+## Social
+
 Se quiser conversar, sugerir ou discutir algo, sinta-se livre para me chamar: :arrow_down:
 
-<div>
-  <a href="https://www.linkedin.com/in/jeanmeira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  <a href="https://www.facebook.com/jean.meira.79" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"/></a>
-  <a href="https://www.instagram.com/jean.meira10/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
-  <a href="mailto:jean.meira10@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
-  <a href="https://medium.com/@jean.meira10" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/></a>
+<div align='center'>
+
+<a href="https://www.linkedin.com/in/jeanmeira/" target="_blank" rel="noreferrer">
+<img src="./images/icons8-linkedin.svg" width="32" height="32" />
+</a>
+<a href="https://www.facebook.com/jean.meira.79" target="_blank" rel="noreferrer">
+<img src="./images/facebook-novo.svg" width="32" height="32" />
+</a>
+<a href="https://www.instagram.com/jean.meira10/" target="_blank" rel="noreferrer">
+<img src="./images/instagram.svg" width="32" height="32" />
+</a>
+<a href="mailto:jean.meira10@hotmail.com" target="_blank" rel="noreferrer">
+<img src="./images/outlook-2019.svg" width="32" height="32" />
+</a>
+<a href="https://medium.com/@jean.meira10" target="_blank" rel="noreferrer">
+<img src="./images/medium.svg" width="32" height="32" />
+</a>
+
 </div>
 
 ## 🏆 Sequência de CTD (Código Todo Dia)
