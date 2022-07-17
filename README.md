@@ -61,8 +61,8 @@ Tenho 24 anos, sou um dev frontend com enfase no reactJS e um background em auto
 
 ## :rocket: Estou me aprofundando no momento:
 
-<a href="https://github.com/JCDMeira/algoritmos-estrutura-de-dado" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/-Paradigma%20funcional-red"  />
+<a href="https://github.com/JCDMeira/poo-js" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-POO-orange"  />
 </a>
 
 <a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
