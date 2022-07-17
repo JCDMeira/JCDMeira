@@ -2,7 +2,8 @@
 
 ## é um prazer recebê-lo aqui
 
-Tenho 24 anos, sou um dev frontend com enfase no reactJS e um background em automação industrial. E também um entusiasta do aprendizado, muito eclético e que adoro ler.
+Tenho 25 anos, sou um dev frontend com enfase no reactJS e um background em automação industrial. 
+E também um entusiasta do aprendizado, muito eclético e que adoro ler.
 
 <div align='center'>
   <h2>
