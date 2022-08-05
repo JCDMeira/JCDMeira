@@ -63,8 +63,8 @@ E também um entusiasta do aprendizado, muito eclético e que adoro ler.
 
 ## :rocket: Estou me aprofundando no momento:
 
-<a href="https://github.com/JCDMeira/poo-js" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/-POO-orange"  />
+<a href="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"  />
 </a>
 
 <a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
