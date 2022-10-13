@@ -67,6 +67,10 @@ E também um entusiasta do aprendizado, muito eclético e que adoro ler.
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"  />
 </a>
 
+<a href="https://img.shields.io/badge/React%3A-performance%20e%20arquitetura-blue" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/React%3A-performance%20e%20arquitetura-blue"  />
+</a>
+
 <a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
 <img src="./images/react.svg" width="32" height="32" />
 </a>
@@ -77,7 +81,7 @@ E também um entusiasta do aprendizado, muito eclético e que adoro ler.
 <img width="400px" alt="octocat" src="https://user-images.githubusercontent.com/65555624/88875729-2f119f00-d1f8-11ea-98b5-5d66a30bd6b5.png">
 </p> -->
 
-Se quiser conversar, sugerir ou discutir algo, sinta-se livre para me chamar: :arrow_down:
+Se quiser conversar, sugerir ou discutir algo, sinta-se livre para me chamar:  :arrow_down:
 
 <div align='center'>
 
