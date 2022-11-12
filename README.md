@@ -2,7 +2,7 @@
 
 ## é um prazer recebê-lo aqui
 
-Tenho 25 anos, sou um desenvolvedor e tenho um background em automação industrial. 
+Tenho 25 anos, sou um desenvolvedor com foco principalmente em reactJS e tenho um background em automação industrial. 
 
 E também sou um entusiasta do aprendizado, muito eclético e que adoro ler. Também gosto de discussões técnicas, compartilhar conhecimentos e ensinar, além de trabalhar como desenvolvedor sou tutor em um mentoria em que já fui mentorado.
 
