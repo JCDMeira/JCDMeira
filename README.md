@@ -16,6 +16,17 @@ E também sou um entusiasta do aprendizado, muito eclético e que adoro ler. Tam
   </h2>
 </div>
 
+
+<div align='center'>
+  <h2>
+    E se você está começando a programar ou gostária de ver alguns materiais que produzo não deixe de acessar
+    <a
+    target="_blank"
+    href="[https://github.com/JCDMeira?tab=stars](https://github.com/stars/JCDMeira/lists/conteúdos-e-resumos)"
+    >Conteúdos e resumos</a>
+  </h2>
+</div>
+
 ## :chart_with_upwards_trend: Minhas estatísticas
 
  <div align='center'>
