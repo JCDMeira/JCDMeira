@@ -22,7 +22,7 @@ E também sou um entusiasta do aprendizado, muito eclético e que adoro ler. Tam
     E se você está começando a programar ou gostária de ver alguns materiais que produzo não deixe de acessar
     <a
     target="_blank"
-    href="[https://github.com/JCDMeira?tab=stars](https://github.com/stars/JCDMeira/lists/conteúdos-e-resumos)"
+    href="https://github.com/stars/JCDMeira/lists/conteúdos-e-resumos"
     >Conteúdos e resumos</a>
   </h2>
 </div>
