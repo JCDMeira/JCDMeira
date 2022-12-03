@@ -30,8 +30,8 @@ E também sou um entusiasta do aprendizado, muito eclético e que adoro ler. Tam
 ## :chart_with_upwards_trend: Minhas estatísticas
 
  <div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcdmeira&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcdmeira&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jcdmeira&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcdmeira&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
 ## :bookmark_tabs: Minhas Skill's
@@ -72,20 +72,6 @@ E também sou um entusiasta do aprendizado, muito eclético e que adoro ler. Tam
 <img src="./images/vs-code.svg" width="32" height="32" />
 </a>
 
-## :rocket: Estou me aprofundando no momento:
-
-<a href="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"  />
-</a>
-
-<a href="https://img.shields.io/badge/React%3A-performance%20e%20arquitetura-blue" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/React%3A-performance%20e%20arquitetura-blue"  />
-</a>
-
-<a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
-<img src="./images/react.svg" width="32" height="32" />
-</a>
-
 <!-- [![image](https://shields.io/badge/-Personal_Page-Personal_Page)](https://jcdmeira.github.io)
 
 <p align="center">
@@ -115,6 +101,6 @@ Se quiser conversar, sugerir ou discutir algo, sinta-se livre para me chamar:  :
 </div>
 
 <div align='center'>
-<a height="150em" href="http://www.github.com/JCDMeira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JCDMeira&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+<a height="140em" href="http://www.github.com/JCDMeira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JCDMeira&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>
 
