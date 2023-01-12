@@ -30,8 +30,8 @@ E também sou um entusiasta do aprendizado, muito eclético e que adoro ler. Tam
 ## :chart_with_upwards_trend: Minhas estatísticas
 
  <div align='center'>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jcdmeira&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcdmeira&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jcdmeira&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jcdmeira&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
 ## :bookmark_tabs: Minhas Skill's
