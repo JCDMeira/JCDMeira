@@ -85,12 +85,6 @@ Se quiser conversar, sugerir ou discutir algo, sinta-se livre para me chamar:  :
 <a href="https://www.linkedin.com/in/jeanmeira/" target="_blank" rel="noreferrer">
 <img src="./images/icons8-linkedin.svg" width="32" height="32" />
 </a>
-<a href="https://www.facebook.com/jean.meira.79" target="_blank" rel="noreferrer">
-<img src="./images/facebook-novo.svg" width="32" height="32" />
-</a>
-<a href="https://www.instagram.com/jean.meira10/" target="_blank" rel="noreferrer">
-<img src="./images/instagram.svg" width="32" height="32" />
-</a>
 <a href="mailto:jean.meira10@hotmail.com" target="_blank" rel="noreferrer">
 <img src="./images/outlook-2019.svg" width="32" height="32" />
 </a>
