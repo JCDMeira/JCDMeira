@@ -2,9 +2,9 @@
 
 ## é um prazer recebê-lo aqui
 
-Tenho 25 anos, sou um desenvolvedor com foco principalmente em reactJS e tenho um background em automação industrial. 
+Acredito que o desenvolvimento vai além do código, por isso, priorizo participar desde a construção da ideia e focar na resolução de problemas. Já atuei em construção de diversas features, remodelagens de escopos e projetos. Tendo participação próxima em ideações com produto e design.
 
-E também sou um entusiasta do aprendizado, muito eclético e que adoro ler. Também gosto de discussões técnicas, compartilhar conhecimentos e ensinar, além de trabalhar como desenvolvedor sou tutor em um mentoria em que já fui mentorado.
+Atuo principalmente com reactJS, como por exemplo, em evolução e sustentação de uma plataforma multi-tenant que atende grandes marcas do varejo, tais como, Americanas, Magalu e centauro; Idealização e desenvolvimento de remodelagem parcial e/ou completa de escopos, features ou partes da plataforma e participação do desenvolvimento de dois módulos de uma aplicação com arquitetura de microfrontends. 
 
 <div align='center'>
   <h2>
