@@ -2,7 +2,7 @@
 
 ## é um prazer recebê-lo aqui
 
-Acredito que o desenvolvimento vai além do código, por isso, priorizo participar desde a construção da ideia e focar na resolução de problemas. Já atuei em construção de diversas features, remodelagens de escopos e projetos. Tendo participação próxima em ideações com produto e design.
+Eu acredito que o desenvolvimento vai além do código, por isso, priorizo participar desde a construção da ideia e focar na resolução de problemas. Já atuei em construção de diversas features, remodelagens de escopos e projetos. Tendo participação próxima em ideações com produto e design.
 
 Atuo principalmente com reactJS, como por exemplo, em evolução e sustentação de uma plataforma multi-tenant que atende grandes marcas do varejo, tais como, Americanas, Magalu e centauro; Idealização e desenvolvimento de remodelagem parcial e/ou completa de escopos, features ou partes da plataforma e participação do desenvolvimento de dois módulos de uma aplicação com arquitetura de microfrontends. 
 
