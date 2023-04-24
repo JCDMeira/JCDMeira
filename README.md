@@ -78,21 +78,6 @@ Atuo principalmente com reactJS, como por exemplo, em evolução e sustentação
 <img width="400px" alt="octocat" src="https://user-images.githubusercontent.com/65555624/88875729-2f119f00-d1f8-11ea-98b5-5d66a30bd6b5.png">
 </p> -->
 
-Se quiser conversar, sugerir ou discutir algo, sinta-se livre para me chamar:  :arrow_down:
-
-<div align='center'>
-
-<a href="https://www.linkedin.com/in/jeanmeira/" target="_blank" rel="noreferrer">
-<img src="./images/icons8-linkedin.svg" width="32" height="32" />
-</a>
-<a href="mailto:jean.meira10@hotmail.com" target="_blank" rel="noreferrer">
-<img src="./images/outlook-2019.svg" width="32" height="32" />
-</a>
-<a href="https://medium.com/@jean.meira10" target="_blank" rel="noreferrer">
-<img src="./images/medium.svg" width="32" height="32" />
-</a>
-
-</div>
 
 <div align='center'>
 <a height="140em" href="http://www.github.com/JCDMeira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JCDMeira&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
