@@ -81,4 +81,3 @@ Atuo principalmente com reactJS, como por exemplo, em evolução e sustentação
 <a height="140em" href="http://www.github.com/JCDMeira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JCDMeira&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>
 
-![Snake animation](https://github.com/JCDMeira/JCDMeira/blob/output/github-contribution-grid-snake.svg)
