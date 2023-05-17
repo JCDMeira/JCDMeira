@@ -4,7 +4,7 @@
 
 Eu acredito que o desenvolvimento vai além do código, por isso, priorizo participar desde a construção da ideia e focar na resolução de problemas. Já atuei em construção de diversas features, remodelagens de escopos e projetos. Tendo participação próxima em ideações com produto e design.
 
-Atuo principalmente com reactJS, como por exemplo, em evolução e sustentação de uma plataforma multi-tenant que atende grandes marcas do varejo, tais como, Americanas, Magalu e centauro; Idealização e desenvolvimento de remodelagem parcial e/ou completa de escopos, features ou partes da plataforma e participação do desenvolvimento de dois módulos de uma aplicação com arquitetura de microfrontends. 
+Atuo principalmente com reactJS, como por exemplo, em evolução e sustentação de uma plataforma multi-tenant que atende grandes marcas do varejo, tais como, Americanas, Magalu e centauro; Idealização e desenvolvimento de remodelagem parcial e/ou completa de escopos, features ou partes da plataforma e participação do desenvolvimento de dois módulos de uma aplicação com arquitetura de microfrontends.
 
 <div align='center'>
   <h2>
@@ -15,7 +15,6 @@ Atuo principalmente com reactJS, como por exemplo, em evolução e sustentação
     >Acesse meus repositórios</a>
   </h2>
 </div>
-
 
 <div align='center'>
   <h2>
@@ -78,8 +77,8 @@ Atuo principalmente com reactJS, como por exemplo, em evolução e sustentação
 <img width="400px" alt="octocat" src="https://user-images.githubusercontent.com/65555624/88875729-2f119f00-d1f8-11ea-98b5-5d66a30bd6b5.png">
 </p> -->
 
-
 <div align='center'>
 <a height="140em" href="http://www.github.com/JCDMeira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JCDMeira&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>
 
+![Snake animation](https://github.com/JCDMeira/JCDMeira/blob/output/github-contribution-grid-snake.svg)
