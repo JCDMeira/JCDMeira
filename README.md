@@ -18,11 +18,10 @@ Atualmente estou numa startup, atuei aqui principalmente com dois projetos. O pr
 
 <div align='center'>
   <h2>
-    E se você está começando a programar ou gostária de ver alguns materiais que produzo não deixe de acessar
-    <a
+   <a
     target="_blank"
     href="https://github.com/stars/JCDMeira/lists/conteúdos-e-resumos"
-    >Conteúdos e resumos</a>
+    >Alguns conteúdos e resumos</a>
   </h2>
 </div>
 <!-- 
