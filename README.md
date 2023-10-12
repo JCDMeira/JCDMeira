@@ -2,9 +2,16 @@
 
 ## é um prazer recebê-lo aqui
 
-Eu acredito que o desenvolvimento vai além do código, por isso, priorizo participar desde a construção da ideia e focar na resolução de problemas. Já atuei em construção de diversas features, remodelagens de escopos e projetos. Tendo participação próxima em ideações com produto e design.
+Desenvolvedor frontend com principal ênfase no ReactJS, com atuação  principalmente com JavaScript, TypeScript e ReactJS. 
 
-Atuo principalmente com reactJS, como por exemplo, em evolução e sustentação de uma plataforma multi-tenant que atende grandes marcas do varejo, tais como, Americanas, Magalu e centauro; Idealização e desenvolvimento de remodelagem parcial e/ou completa de escopos, features ou partes da plataforma e participação do desenvolvimento de dois módulos de uma aplicação com arquitetura de microfrontends.
+Atualmente estou numa startup, atuei aqui principalmente com dois projetos. O primeiro sendo uma plataforma multi-tenant que atende os grandes varejistas, tais como, americanas, Kroton e centauro. E o segundo sendo uma aplicação descentralizada de soluções, concentrando diversos módulos desacoplados de micro frontends, em que cada módulo é uma solução por si só e um projeto único, que é integrado através do orquestrador single spa. 
+
+Meu trabalho hoje  é principalmente atuar na construção e evolução dos módulos micro frontends. Como desenvolvedor participando da construção de alguns módulos e encabeçando o desenvolvimento de outros módulos. 
+
+Alguns resultados apresentados que posso citar foram, a remodelagem de um escopo de feed interno da plataforma em cerca de 1 mês, que reconstruiu e atualizou o mesmo, adicionando novos recursos e funcionalidades. 
+Construção total do módulo de gerenciamento e moderação de conteúdo, com análise e levantamento de requisitos, desenvolvimento em código e testes manuais de cenários para validação dos requisitos. 
+
+De modo geral, a metodologia de trabalho me trouxe ganhos em colaboração ativa e foco direcionado ao resultado desejado com viés de engenharia pensando em produto, já que a empresa tem um perfil bastante arrojado e um sistema baseado em Engineering first. 
 
 <div align='center'>
   <h2>
