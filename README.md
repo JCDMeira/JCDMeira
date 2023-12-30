@@ -6,22 +6,22 @@ Desenvolvedor frontend com principal ênfase no ReactJS, com atuação  principa
 
 Atualmente estou numa startup, atuei aqui principalmente com dois projetos. O primeiro sendo uma plataforma multi-tenant que atende os grandes varejistas, tais como, americanas, Kroton e centauro. E o segundo sendo uma aplicação descentralizada de soluções, concentrando diversos módulos desacoplados de micro frontends, em que cada módulo é uma solução por si só e um projeto único, que é integrado através do orquestrador single spa. 
 
-<div align='center'>
+<div>
   <h2>
     <a
     target="_blank"
     style="text-decoration: none"
     href="https://github.com/JCDMeira?tab=stars"
-    >Acesse meus repositórios</a>
+    >Repositórios organizados por Tag</a>
   </h2>
 </div>
 
-<div align='center'>
+<div >
   <h2>
    <a
     target="_blank"
     href="https://github.com/stars/JCDMeira/lists/conteúdos-e-resumos"
-    >Alguns conteúdos e resumos</a>
+    >Conteúdos e resumos sobre programação</a>
   </h2>
 </div>
 <!-- 
@@ -32,7 +32,7 @@ Atualmente estou numa startup, atuei aqui principalmente com dois projetos. O pr
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jcdmeira&layout=compact&langs_count=7&theme=blue-green"/>
 </div> -->
 
-## :bookmark_tabs: Minhas Skill's
+## :bookmark_tabs: Skill's
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
 <img src="./images/html-5.svg" width="32" height="32" />
