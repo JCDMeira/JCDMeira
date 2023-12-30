@@ -7,22 +7,22 @@ Desenvolvedor frontend com principal ênfase no ReactJS, com atuação  principa
 Atualmente estou numa startup, atuei aqui principalmente com dois projetos. O primeiro sendo uma plataforma multi-tenant que atende os grandes varejistas, tais como, americanas, Kroton e centauro. E o segundo sendo uma aplicação descentralizada de soluções, concentrando diversos módulos desacoplados de micro frontends, em que cada módulo é uma solução por si só e um projeto único, que é integrado através do orquestrador single spa. 
 
 <div>
-  <h2>
+  <h4>
     <a
     target="_blank"
     style="text-decoration: none"
     href="https://github.com/JCDMeira?tab=stars"
     >Repositórios organizados por Tag</a>
-  </h2>
+  </h4>
 </div>
 
 <div >
-  <h2>
+  <h4>
    <a
     target="_blank"
     href="https://github.com/stars/JCDMeira/lists/conteúdos-e-resumos"
     >Conteúdos e resumos sobre programação</a>
-  </h2>
+  </h4>
 </div>
 <!-- 
 ## :chart_with_upwards_trend: Minhas estatísticas
