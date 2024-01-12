@@ -2,9 +2,10 @@
 
 ## é um prazer recebê-lo aqui
 
-Desenvolvedor frontend com principal ênfase no ReactJS, com atuação  principalmente com JavaScript, TypeScript e ReactJS. 
+Atuo hoje frontend com principal principalmente com JavaScript, TypeScript e ReactJS. Também tenho conhecimentos em nodeJS.
 
-Atualmente estou numa startup, atuei aqui principalmente com dois projetos. O primeiro sendo uma plataforma multi-tenant que atende os grandes varejistas, tais como, americanas, Kroton e centauro. E o segundo sendo uma aplicação descentralizada de soluções, concentrando diversos módulos desacoplados de micro frontends, em que cada módulo é uma solução por si só e um projeto único, que é integrado através do orquestrador single spa. 
+Atualmente estou numa startup, atuei aqui principalmente com dois projetos. O primeiro sendo uma plataforma multi-tenant que faz a transformação digitar do varejo atendendo os grandes varejistas, tais como, americanas, Kroton e centauro. 
+Já o segundo sendo uma aplicação descentralizada de soluções, concentrando diversos módulos desacoplados de micro frontends, em que cada módulo é uma solução por si só e um projeto único, que é integrado através do orquestrador single spa. Trazendo um leque de soluções para tornar possível o marketing hyper localizado.
 
 <div>
   <h4>
