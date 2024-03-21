@@ -4,7 +4,7 @@
 
 Atuo hoje frontend com principal principalmente com JavaScript, TypeScript e ReactJS. Também tenho conhecimentos em nodeJS e em C# com ASP.NET.
 
-Atualmente estou numa startup, atuei aqui principalmente com dois projetos. O primeiro sendo uma plataforma multi-tenant que faz a transformação digitar do varejo atendendo os grandes varejistas, tais como, americanas, Kroton e centauro. 
+Atualmente estou numa startup, atuei aqui principalmente com dois projetos. O primeiro sendo uma plataforma multi-tenant que faz a transformação digitar do varejo atendendo os grandes varejistas, tais como, americanas, Kroton e centauro.
 Já o segundo sendo uma aplicação descentralizada de soluções, concentrando diversos módulos desacoplados de micro frontends, em que cada módulo é uma solução por si só e um projeto único, que é integrado através do orquestrador single spa. Trazendo um leque de soluções para tornar possível o marketing hyper localizado.
 
 <div>
@@ -71,6 +71,22 @@ Já o segundo sendo uma aplicação descentralizada de soluções, concentrando 
 <img src="./images/vs-code.svg" width="32" height="32" />
 </a>
 
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+<img src="./images/nodejs.svg" width="32" height="32" />
+</a>
+
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer">
+<img src="./images/c-sharp.svg" width="32" height="32" />
+</a>
+
+<a href="https://learn.microsoft.com/pt-br/dotnet/" target="_blank" rel="noreferrer">
+<img src="./images/dotnet.svg" width="32" height="32" />
+</a>
+
+<a href="https://www.mongodb.com/pt-br" target="_blank" rel="noreferrer">
+<img src="./images/mongodb.svg" width="32" height="32" />
+</a>
+
 <!-- [![image](https://shields.io/badge/-Personal_Page-Personal_Page)](https://jcdmeira.github.io)
 
 <p align="center">
@@ -80,4 +96,3 @@ Já o segundo sendo uma aplicação descentralizada de soluções, concentrando 
 <div align='center'>
 <a height="140em" href="http://www.github.com/JCDMeira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JCDMeira&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>
-
