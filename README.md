@@ -2,10 +2,9 @@
 
 ## é um prazer recebê-lo aqui
 
-Atuo hoje frontend com principal principalmente com JavaScript, TypeScript e ReactJS. Também tenho conhecimentos em nodeJS e em C# com ASP.NET.
+Atualmente, atuo em uma startup onde participei principalmente em dois grandes projetos frontends. O primeiro é uma plataforma multi-tenant que promove a transformação digital do varejo, atendendo grandes varejistas como Americanas, Kroton e Centauro. O segundo projeto é uma aplicação descentralizada de soluções, que integra diversos módulos desacoplados de micro frontends através do orquestrador Single SPA, possibilitando o marketing hiperlocalizado, mas também trazendo um set de ferramentas para o varejo.
 
-Atualmente estou numa startup, atuei aqui principalmente com dois projetos. O primeiro sendo uma plataforma multi-tenant que faz a transformação digitar do varejo atendendo os grandes varejistas, tais como, americanas, Kroton e centauro.
-Já o segundo sendo uma aplicação descentralizada de soluções, concentrando diversos módulos desacoplados de micro frontends, em que cada módulo é uma solução por si só e um projeto único, que é integrado através do orquestrador single spa. Trazendo um leque de soluções para tornar possível o marketing hyper localizado.
+Recentemente, estou me dedicando ao desenvolvimento backend com micro serviços e BFF, utilizando C# e .Net. Estou trabalhando principalmente em um módulo de treinamentos,mas já contribui com sistema de libs comuns da empresa, assim como na  construução de scripts de automatização de tarefas. Meu principa papel dentro da engenharia é collaborar com a idelização e construção de micro serviços escalláveis e de sistemas de BFF dedicados a atenderem as telas específiccas que irão consumir as informações desses serviços. A oongo prazo busco focar em escalabilidade, performance e diretrizes de arquitetura de software. Meu objetivo é consolidar e expandir meus conhecimentos nessas áreas para enfrentar novos desafios e contribuir de forma significativa para o desenvolvimento de soluções inovadoras.
 
 <div>
   <h4>
