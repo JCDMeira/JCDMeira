@@ -92,6 +92,6 @@ Recentemente, estou me dedicando ao desenvolvimento backend com micro serviços 
 <img width="400px" alt="octocat" src="https://user-images.githubusercontent.com/65555624/88875729-2f119f00-d1f8-11ea-98b5-5d66a30bd6b5.png">
 </p> -->
 
-<div align='center'>
+<!-- <div align='center'>
 <a height="140em" href="http://www.github.com/JCDMeira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JCDMeira&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
-</div>
+</div> -->
